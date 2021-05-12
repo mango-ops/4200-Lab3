@@ -2,7 +2,6 @@
 Google Doc Report: https://docs.google.com/document/d/1zUFn1pQwA7V4saSvhSTp0oKYxBkpQAQrApntYs1Zu2o/edit 
 
 
-Useful links found:
 1. Planning Guide 
   2. https://planning.wiki/ref/pddl/domain 
 3. Explanation of Elecator Problem
