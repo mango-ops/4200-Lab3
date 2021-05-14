@@ -58,6 +58,6 @@
   :precondition (and (lift-at ?f1) (above ?f2 ?f1))
   :effect (and (lift-at ?f2) (not (lift-at ?f1))))
 )
-
+;;yy
 
 
